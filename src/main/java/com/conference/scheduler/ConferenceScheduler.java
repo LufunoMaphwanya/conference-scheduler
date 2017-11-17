@@ -1,7 +1,9 @@
 package com.conference.scheduler;
 
 import java.util.ArrayList;
+import java.util.List;
 import java.util.Stack;
+
 import static com.conference.scheduler.SESSION_TYPE.AFTERNOON;
 import static com.conference.scheduler.SESSION_TYPE.MORNING;
 
