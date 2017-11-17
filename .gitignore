@@ -3,4 +3,5 @@ build/
 .idea/
 idea/
 classes/
-
+.idea/workspace.xml
+target/
